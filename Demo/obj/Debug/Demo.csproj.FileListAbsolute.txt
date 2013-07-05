@@ -1,0 +1,19 @@
+E:\My Personal File\DynamicSQL\DynamicSQL\Demo\bin\Debug\Demo.exe
+E:\My Personal File\DynamicSQL\DynamicSQL\Demo\bin\Debug\Demo.pdb
+E:\My Personal File\DynamicSQL\DynamicSQL\Demo\bin\Debug\DynamicSQL.dll
+E:\My Personal File\DynamicSQL\DynamicSQL\Demo\bin\Debug\DynamicSQL.pdb
+E:\My Personal File\DynamicSQL\DynamicSQL\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\My Personal File\DynamicSQL\DynamicSQL\Demo\obj\Debug\Demo.exe
+E:\My Personal File\DynamicSQL\DynamicSQL\Demo\obj\Debug\Demo.pdb
+E:\My Personal File\DynamicSQL\DynamicSQL\Demo\bin\Debug\Demo.exe.config
+E:\My Personal File\DynamicSQL\Demo\bin\Debug\Demo.exe.config
+E:\My Personal File\DynamicSQL\Demo\obj\Debug\Demo.exe
+E:\My Personal File\DynamicSQL\Demo\obj\Debug\Demo.pdb
+F:\WorkProject\Dynamicsql\Demo\bin\Debug\Demo.exe.config
+F:\WorkProject\Dynamicsql\Demo\obj\Debug\Demo.exe
+F:\WorkProject\Dynamicsql\Demo\obj\Debug\Demo.pdb
+F:\WorkProject\Dynamicsql\Demo\bin\Debug\Demo.exe
+F:\WorkProject\Dynamicsql\Demo\bin\Debug\Demo.pdb
+F:\WorkProject\Dynamicsql\Demo\bin\Debug\DynamicSQL.dll
+F:\WorkProject\Dynamicsql\Demo\bin\Debug\DynamicSQL.pdb
+F:\WorkProject\Dynamicsql\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache

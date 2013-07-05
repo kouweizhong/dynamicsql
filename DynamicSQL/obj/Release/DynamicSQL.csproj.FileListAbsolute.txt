@@ -1,0 +1,5 @@
+F:\WorkProject\Dynamicsql\DynamicSQL\bin\Release\DynamicSQL.dll
+F:\WorkProject\Dynamicsql\DynamicSQL\bin\Release\DynamicSQL.pdb
+F:\WorkProject\Dynamicsql\DynamicSQL\obj\Release\DynamicSQL.csprojResolveAssemblyReference.cache
+F:\WorkProject\Dynamicsql\DynamicSQL\obj\Release\DynamicSQL.dll
+F:\WorkProject\Dynamicsql\DynamicSQL\obj\Release\DynamicSQL.pdb
