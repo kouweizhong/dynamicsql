@@ -8,7 +8,7 @@ using System.Configuration;
 namespace DynamicSQL
 {
     /// <summary>
-    /// DynamicSQL MSSQL Database Helper By NJ.Wu(QQ:569594079)
+    /// DynamicSQL MSSQL Database Helper By NJ.Wu(QQ:test)
     /// </summary>
     public class DynamicSQL : IDisposable
     {
