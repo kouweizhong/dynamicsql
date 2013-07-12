@@ -64,7 +64,7 @@ namespace Demo
 
             //db.ExecProc("proc_Test");
             //db.ExecProc("proc_Test", new {id=1 });
-  db.Dispose();
+            db.Dispose();
             Console.WriteLine("Done! Press any key to exit.");
 
             Console.ReadLine();
