@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using SqlHelper;
 
 namespace Demo
 {
@@ -10,12 +11,12 @@ namespace Demo
         //Update this to use your connection string.
 
         // static DynamicSQL.DynamicSQL db = new DynamicSQL.DynamicSQL("Data Source=.; Initial Catalog=WeBlog; User Id=sa; Password=123456;");
-       // static DynamicSQL.DynamicSQL db = new DynamicSQL.DynamicSQL();
+        // static DynamicSQL.DynamicSQL db = new DynamicSQL.DynamicSQL();
 
 
         static void Main(string[] args)
         {
-            using (DynamicSQL.DynamicSQL db = new DynamicSQL.DynamicSQL())
+            using (DynamicSQL db = new DynamicSQL())
             {
                 //for (var a = 0; a < 4000; a++)
                 //{

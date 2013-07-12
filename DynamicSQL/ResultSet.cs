@@ -5,7 +5,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Dynamic;
 
-namespace DynamicSQL
+namespace SqlHelper
 {
     internal class ResultSet : IDisposable, IEnumerator<object>, IEnumerable<object>
     {

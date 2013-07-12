@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 using System.Reflection;
 using System.Configuration;
 
-namespace DynamicSQL
+namespace SqlHelper
 {
     /// <summary>
     /// DynamicSQL MSSQL Database Helper By NJ.Wu(QQ:test)

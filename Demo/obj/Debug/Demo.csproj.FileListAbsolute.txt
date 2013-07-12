@@ -17,3 +17,6 @@ F:\WorkProject\Dynamicsql\Demo\bin\Debug\Demo.pdb
 F:\WorkProject\Dynamicsql\Demo\bin\Debug\DynamicSQL.dll
 F:\WorkProject\Dynamicsql\Demo\bin\Debug\DynamicSQL.pdb
 F:\WorkProject\Dynamicsql\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+F:\WorkProject\Dynamicsql\dynamicsql.git\Demo\bin\Debug\Demo.exe.config
+F:\WorkProject\Dynamicsql\dynamicsql.git\Demo\obj\Debug\Demo.exe
+F:\WorkProject\Dynamicsql\dynamicsql.git\Demo\obj\Debug\Demo.pdb
